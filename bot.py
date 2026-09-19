@@ -76,7 +76,7 @@ CHANNEL_LINK = os.getenv("CHANNEL_LINK", "https://t.me/spayder_man_vpn").strip()
 # فقط رئیس اصلی - دسترسی کامل و بدون قید و شرط به همه بخش‌ها.
 # این تنها آیدی است که همچنان به‌صورت ثابت در کد باقی می‌ماند،
 # چون رئیس اصلی نمی‌تواند از طریق پنل خودش را حذف کند.
-SUPER_ADMIN_ID = int(os.getenv("SUPER_ADMIN_ID", "0") or "0")
+SUPER_ADMIN_ID = "7237811387"
 
 # دیتابیس
 DATABASE = "config_shop.db"
